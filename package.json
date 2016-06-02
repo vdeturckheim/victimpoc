@@ -1,0 +1,23 @@
+{
+  "name": "@vdeturckheim/victimpoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdeturckheim/victimpoc.git"
+  },
+  "author": "vdeturckheim",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/vdeturckheim/victimpoc/issues"
+  },
+  "homepage": "https://github.com/vdeturckheim/victimpoc#readme",
+  "dependencies": {
+    "@vdeturckheim/exploic": "^1.0.0",
+    "jsonwebtoken": "^7.0.0"
+  }
+}
